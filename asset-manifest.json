@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo-si579-gh-pages-react/static/css/main.073c9b0a.css",
+    "main.js": "/demo-si579-gh-pages-react/static/js/main.15c48e7a.js",
+    "static/js/787.603c1c4f.chunk.js": "/demo-si579-gh-pages-react/static/js/787.603c1c4f.chunk.js",
+    "static/media/logo.svg": "/demo-si579-gh-pages-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demo-si579-gh-pages-react/index.html",
+    "main.073c9b0a.css.map": "/demo-si579-gh-pages-react/static/css/main.073c9b0a.css.map",
+    "main.15c48e7a.js.map": "/demo-si579-gh-pages-react/static/js/main.15c48e7a.js.map",
+    "787.603c1c4f.chunk.js.map": "/demo-si579-gh-pages-react/static/js/787.603c1c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.15c48e7a.js"
+  ]
+}
